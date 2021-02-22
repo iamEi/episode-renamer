@@ -6,3 +6,6 @@ Title-2019-E1-720p.mp4
 
 In this example, the episode number is in index [1].  Every file name should 
 contain the corresponding episode number in that index
+
+This is a work of a sloppy beginner. Please excuse any mistakes and feel free
+to criticize.
